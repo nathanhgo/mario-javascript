@@ -1,4 +1,4 @@
-# Mario Jump 🕹
+# Mario Jump! 🕹
 
 ## O que é o projeto?
 
